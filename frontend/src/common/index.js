@@ -1,4 +1,4 @@
-const backendDomin = "https://project-ecommerce-backend.vercel.app"
+const backendDomin = "https://final-ecom-backend.vercel.app"
 
 const SummaryApi = {
     signUP : {
